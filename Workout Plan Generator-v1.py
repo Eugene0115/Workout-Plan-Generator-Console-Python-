@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import random
 #БЛОК 1. Ввод и проверка данных пользователя
 ## 1.1. Пол
